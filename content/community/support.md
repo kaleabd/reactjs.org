@@ -22,7 +22,7 @@ Stack Overflow is a popular forum to ask code-level questions or if you're stuck
 
 There are many online forums which are a great place for discussion about best practices and application architecture as well as the future of React. If you have an answerable code-level question, Stack Overflow is usually a better fit.
 
-Each community consists of many thousands of React users.
+- Each community consists of many thousands of React users.
 
 * [DEV's React community](https://dev.to/t/react)
 * [Hashnode's React community](https://hashnode.com/n/reactjs)
